@@ -16,7 +16,7 @@
 		STRING	FBICode;
 		STRING	XCoordinate;
 		STRING	YCoordinate;
-		STRING Year;
+		STRING  Year;
 		STRING	UpdatedOn;
 		STRING	Latitude;
 		STRING	Longitude;
